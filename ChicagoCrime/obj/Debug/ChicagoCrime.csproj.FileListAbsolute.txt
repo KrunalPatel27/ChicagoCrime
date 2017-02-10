@@ -1,0 +1,21 @@
+C:\Users\krupa\Desktop\ChicagoCrime\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.exe.config
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.exe.config
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.exe
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.pdb
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Charting.dll
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Core.dll
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSLib.dll
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSLib.pdb
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSLib.xml
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Charting.pdb
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Charting.xml
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Core.xml
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.csprojResolveAssemblyReference.cache
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.Form1.resources
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.Properties.Resources.resources
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.csproj.GenerateResource.Cache
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.exe
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.pdb
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\ChicagoCrime\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.exe.config
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\ChicagoCrime\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.exe
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\ChicagoCrime\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.pdb

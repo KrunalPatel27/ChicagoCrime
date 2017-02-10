@@ -1,0 +1,10 @@
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSLib.XML
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSLib.dll
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSLib.pdb
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.dll
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSharp.Core.dll
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.pdb
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.xml
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\bin\Debug\FSharp.Core.xml
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\obj\Debug\FSLib.dll
+C:\Users\krupa\Desktop\HW5\ChicagoCrime\FSLib\obj\Debug\FSLib.pdb
